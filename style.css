@@ -206,6 +206,13 @@
      margin-left: -6px;
      background-color: rgba(228, 19, 19, 0.568);
      cursor: pointer;
+     color: white;
+     font-size: 14px;
+ }
+
+ ::placeholder {
+     color: rgb(97, 94, 94);
+     font-size: 14px;
  }
 
  /* subscribe section end */
