@@ -83,3 +83,68 @@
  }
 
  /* today section css end */
+
+
+
+ /*  amount section css start */
+ .amount_section {
+     width: 100%;
+ }
+
+ .put_section {
+     width: 60%;
+     text-align: center;
+     margin: 0 auto;
+     margin-top: 20px;
+ }
+
+ .input_design {
+     border: 0px solid white;
+ }
+
+ /*  amount section css end */
+
+ /* plan section css start */
+
+ .plan_section {
+     width: 100%;
+ }
+
+ .plan_content {
+     text-align: center;
+ }
+
+ .plan_group {
+     width: 75%;
+     display: flex;
+     margin: 0 auto;
+
+ }
+
+ .plan_one {
+     background-color: antiquewhite;
+     margin-left: 10px;
+     padding: 20px;
+     padding-top: 55px;
+ }
+
+ .plan_two {
+     background-color: rgb(204, 149, 77);
+     margin-left: 10px;
+     padding: 20px;
+     padding-top: 55px;
+ }
+
+ .plan_three {
+     background-color: rgb(243, 147, 21);
+     margin-left: 10px;
+     padding: 20px;
+     padding-top: 55px;
+ }
+
+ .edu_icon {
+     width: 53px;
+     height: 53px;
+ }
+
+ /* plan section css end */
