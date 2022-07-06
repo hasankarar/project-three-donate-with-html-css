@@ -46,9 +46,6 @@
  }
 
  /* top section css end */
-
-
-
  /* today section css start */
  .today_section {
      width: 100%;
@@ -83,9 +80,6 @@
  }
 
  /* today section css end */
-
-
-
  /*  amount section css start */
  .amount_section {
      width: 100%;
@@ -100,12 +94,12 @@
 
  .input_design {
      border: 0px solid white;
+     padding: 20px;
  }
 
  /*  amount section css end */
 
  /* plan section css start */
-
  .plan_section {
      width: 100%;
  }
@@ -118,7 +112,6 @@
      width: 75%;
      display: flex;
      margin: 0 auto;
-
  }
 
  .plan_one {
@@ -150,7 +143,6 @@
  /* plan section css end */
 
  /* br sumon and shaeek section css  start */
-
  .br_sumon {
      width: 100%;
      display: flex;
@@ -172,11 +164,55 @@
      margin-top: 100px;
  }
 
+ .orange {
+     color: orange;
+ }
+
  /* br sumon and shaeek section css  end */
 
+ /* update section start */
+
+ .update_section {
+     text-align: center;
+ }
+
+ /* update section end */
+
+ /* subscribe section start */
+ .subscribe_section {
+     width: 100%;
+ }
+
+ .sub_inside {
+     width: 60%;
+     height: 200px;
+     background-color: rgba(255, 0, 0, 0.13);
+     margin: 0 auto;
+ }
+
+ .sub_group {
+     text-align: center;
+     padding-top: 93px;
+ }
+
+ input[type="email"],
+ input[type="button"] {
+     background-color: rgba(70, 68, 68, 0.568);
+     border: none;
+     padding: 20px 50px;
+ }
+
+ input[type="button"] {
+     margin-left: -6px;
+     background-color: rgba(228, 19, 19, 0.568);
+     cursor: pointer;
+ }
+
+ /* subscribe section end */
 
 
 
+ /* footer section start */
  .footer_section {
      width: 100%;
      height: 200px;
@@ -193,3 +229,5 @@
      font-family: 'Poppins', sans-serif;
      font-family: 'Yellowtail', cursive;
  }
+
+ /* footer section end */
